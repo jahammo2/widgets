@@ -9,10 +9,10 @@ Assignment for week 3, day 2:
 
 # Hexclock
 
-*[assignment](https://github.com/tiy-durham-fe-2015/curriculum/blob/master/assignments/hexclock/readme.md)
+* [assignment](https://github.com/tiy-durham-fe-2015/curriculum/blob/master/assignments/hexclock/readme.md)
 
 ## What I did: 
 
-*The actual numbers are changing via HSL
-*The watch is changing via Hex
-*The background is changing via RGB
+* The actual numbers are changing via HSL
+* The watch is changing via Hex
+* The background is changing via RGB
