@@ -2,7 +2,7 @@
 ***** BODY, GENERAL, AND RESET *********
 *************************************************************/
 
-@import url('css/reset.css');
+@import url('reset.css');
 
 html,
 body {
@@ -134,7 +134,7 @@ i {
 }
 
 .nc {
-	background: url('img/nc.png') no-repeat 20% 49%,
+	background: url('../img/nc.png') no-repeat 20% 49%,
 				#E8654B;
 	background-size: 25% 55%,
 					 100%;
@@ -145,7 +145,7 @@ i {
 }
 
 .sc {
-	background: url('img/sc.png') no-repeat 20% 45%,
+	background: url('../img/sc.png') no-repeat 20% 45%,
 				#D85940;
 	background-size: 25% 40%,
 					 100%;
@@ -161,7 +161,7 @@ i {
 }
 
 .va {
-	background: url('img/va.png') no-repeat 20% 45%,
+	background: url('../img/va.png') no-repeat 20% 45%,
 				#E8654B;
 	background-size: 31% 40%,
 					 100%;
