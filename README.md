@@ -1,10 +1,16 @@
 # widgets
 
-Assignment for week 3, day 2:
+Assignment for week 3:
 
-#Create a dropdown menu
+##Create a dropdown menu
 
-#Auto-Grow Textarea
+#### Technologies Used:
+
+- JavaScript
+- HTML
+- CSS
+
+##Auto-Grow Textarea
 -Create a textarea that grows (in height) so that it is always bigger than its text content -Hint: Google to see how this is generally done, but implement it yourself; don't copy/paste
 
 #### Technologies Used:
@@ -13,11 +19,11 @@ Assignment for week 3, day 2:
 - HTML
 - CSS
 
-# Hexclock
+## Hexclock
 
 * [assignment](https://github.com/tiy-durham-fe-2015/curriculum/blob/master/assignments/hexclock/readme.md)
 
-## What I did:
+### What I did:
 
 * The actual numbers are changing via HSL
 * The watch is changing via Hex
